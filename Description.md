@@ -22,16 +22,16 @@ Les besoins fonctionnels de ce projet sont:
 ## Navires disponibles
 Le client aura à sa disposition plusieurs navires qu'il devra placer.
 Chaque navire possède une longueur déterminé et innchangable, voici la description:
-    **The Dying Gull :
-        ** Longueur de 2 cases.
-    **HMS Intercepteur :
-        ** Longueur de 3 cases.
-    **Silent Mary :
-        ** Longueur de 3 cases.
-    **Queen Anne’s Revenge :
-        ** Longueur de 2 cases.
-    **Black Pearl :
-        ** Longueur de 2 cases.
+**The Dying Gull :
+    *Longueur de 2 cases.
+**HMS Intercepteur :
+    * Longueur de 3 cases.
+**Silent Mary :
+    * Longueur de 3 cases.
+**Queen Anne’s Revenge :
+    * Longueur de 2 cases.
+**Black Pearl :
+    * Longueur de 2 cases.
 
 ## Fonctionnalité supplémentaire
 Le client aura droit à choisir le niveaux dans lequel il préfère jouer. Chaque niveau est limité par un nombre de tours (pas modificable !).
@@ -39,7 +39,7 @@ Le client aura droit à choisir le niveaux dans lequel il préfère jouer. Chaqu
 ## Mode d'emploi
 
 Le client doit se rendre dans le dossier dans lequel il y a:
-    ** **Les fichiers contenant le MVP en question** 
+* **Les fichiers contenant le MVP en question** 
 
 Après la recherche des fichiers, le client doit simplement saisir dans l'invité de commandes :
  > **_python fichierMVP.py_**
