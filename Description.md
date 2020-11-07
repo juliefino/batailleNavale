@@ -6,31 +6,31 @@ L’objectif à travers de ce projet est de réaliser le jeu de la bataille nava
 
 ## Besoins fonctionnels du MVP
 Les besoins fonctionnels de ce projet sont:
-    **Une interface graphique et une interface console sur lesquelles l’utilisateurpeut jouer. C’est-à-dire que les grilles s’affichent également en interface console.
-    **Dans l’interface graphique, il y aura un bouton « help » qui permettra de décrire le fonctionnement du jeu si l’utilisateur en a besoin.
-    **Une légende sera présente en interface console, au début du jeu, afin d’indiquer au joueur la signification des symboles.
-    **La taille de la grille de jeu qui varie selon le niveau de difficulté choisi par le joueur.
-    **Le joueur ne peut placer un bateau en dehors des limites de la grille, sinon un message d’erreur s’affichera.
-    **Les bateaux ne peuvent ni se toucher, ni être superpositionnés sinon un message d’erreur apparaitra.
-    **Le programme doit permettre au joueur de rejouer lorsqu’il a touché un bateau ennemi.
-    **L’utilisateur aura sa grille affichée avec ses bateaux placés ainsi que la grille de son adversaire afin d’attaquer les bateaux.
-    **Les attaques de l’ordinateur seront visibles sur la grille du joueur.
-    **Un nombre de tours est définit au préalable afin de ne pas éterniser la partie.
-    **Si un des joueurs parvient à couler un navire, un message s’affiche indiquant « J’ai coulé ton navire en x tirs ! ».
-    **Si un tir est raté, un message sera affiché en console.
+* Une interface graphique et une interface console sur lesquelles l’utilisateurpeut jouer. C’est-à-dire que les grilles s’affichent également en interface console.
+* Dans l’interface graphique, il y aura un bouton « help » qui permettra de décrire le fonctionnement du jeu si l’utilisateur en a besoin.
+* Une légende sera présente en interface console, au début du jeu, afin d’indiquer au joueur la signification des symboles.
+* La taille de la grille de jeu qui varie selon le niveau de difficulté choisi par le joueur.
+* Le joueur ne peut placer un bateau en dehors des limites de la grille, sinon un message d’erreur s’affichera.
+* Les bateaux ne peuvent ni se toucher, ni être superpositionnés sinon un message d’erreur apparaitra.
+* Le programme doit permettre au joueur de rejouer lorsqu’il a touché un bateau ennemi.
+* L’utilisateur aura sa grille affichée avec ses bateaux placés ainsi que la grille de son adversaire afin d’attaquer les bateaux.
+* Les attaques de l’ordinateur seront visibles sur la grille du joueur.
+* Un nombre de tours est définit au préalable afin de ne pas éterniser la partie.
+* Si un des joueurs parvient à couler un navire, un message s’affiche indiquant « J’ai coulé ton navire en x tirs ! ».
+* Si un tir est raté, un message sera affiché en console.
 
 ## Navires disponibles
 Le client aura à sa disposition plusieurs navires qu'il devra placer.
 Chaque navire possède une longueur déterminé et innchangable, voici la description:
-**The Dying Gull :
+* The Dying Gull :
     *Longueur de 2 cases.
-**HMS Intercepteur :
+* HMS Intercepteur :
     * Longueur de 3 cases.
-**Silent Mary :
+* Silent Mary :
     * Longueur de 3 cases.
-**Queen Anne’s Revenge :
+* Queen Anne’s Revenge :
     * Longueur de 2 cases.
-**Black Pearl :
+* Black Pearl :
     * Longueur de 2 cases.
 
 ## Fonctionnalité supplémentaire
