@@ -23,7 +23,7 @@ Les besoins fonctionnels de ce projet sont:
 Le client aura à sa disposition plusieurs navires qu'il devra placer.
 Chaque navire possède une longueur déterminé et innchangable, voici la description:
 * The Dying Gull :
-    *Longueur de 2 cases.
+    * Longueur de 2 cases.
 * HMS Intercepteur :
     * Longueur de 3 cases.
 * Silent Mary :
